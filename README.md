@@ -1,2 +1,2 @@
-# Pro-C30
-Tower siege with attachable shooter and disappearing  cans
+# p5.play-boilerplate
+Boiler plate for p5.play
